@@ -1,0 +1,11 @@
+C:\Users\breev\source\repos\CodeFirstApp_547\CodeFirstApp_547\obj\Debug\CodeFirstApp_547.csproj.CoreCompileInputs.cache
+C:\Users\breev\source\repos\CodeFirstApp_547\CodeFirstApp_547\bin\Debug\CodeFirstApp_547.exe.config
+C:\Users\breev\source\repos\CodeFirstApp_547\CodeFirstApp_547\bin\Debug\CodeFirstApp_547.exe
+C:\Users\breev\source\repos\CodeFirstApp_547\CodeFirstApp_547\bin\Debug\CodeFirstApp_547.pdb
+C:\Users\breev\source\repos\CodeFirstApp_547\CodeFirstApp_547\bin\Debug\EntityFramework.dll
+C:\Users\breev\source\repos\CodeFirstApp_547\CodeFirstApp_547\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\breev\source\repos\CodeFirstApp_547\CodeFirstApp_547\bin\Debug\EntityFramework.xml
+C:\Users\breev\source\repos\CodeFirstApp_547\CodeFirstApp_547\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\breev\source\repos\CodeFirstApp_547\CodeFirstApp_547\obj\Debug\CodeFirstApp_547.csproj.CopyComplete
+C:\Users\breev\source\repos\CodeFirstApp_547\CodeFirstApp_547\obj\Debug\CodeFirstApp_547.exe
+C:\Users\breev\source\repos\CodeFirstApp_547\CodeFirstApp_547\obj\Debug\CodeFirstApp_547.pdb
