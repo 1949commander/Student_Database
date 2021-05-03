@@ -1,2 +1,2 @@
-# CodeFirstApp_547
- Code First
+# Student Database App
+ C# Code First .Net Framework project.
